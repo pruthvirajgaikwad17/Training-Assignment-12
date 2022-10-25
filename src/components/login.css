@@ -1,0 +1,95 @@
+.login {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+  display: block;
+}
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 40%;
+}
+
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 35%;
+}
+
+form {
+  max-width: 700px;
+  width: 100%;
+}
+
+.txt {
+  border-radius: 5px;
+  height: 25px;
+}
+
+.content {
+  margin: 5px 5px 0px 5px;
+}
+
+.l {
+  width: 39%;
+  display: inline-block;
+  text-align: center;
+  padding-top: 15px;
+}
+
+button {
+  margin-left: 45%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 8px 15px 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error {
+  font-size: 11px;
+  color: red;
+  margin-left: 40%;
+}
+
+#rfinal {
+  font-size: 15px;
+  color: red;
+  margin-left: 34%;
+}
+
+.final {
+  margin-left: 37%;
+}
+
+.regis {
+  margin-left: 145px;
+  color: blue;
+  cursor: pointer;
+}
+
+#registration {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+  display: none;
+}
+
+.to_login {
+  margin-left: 40%;
+  color: blue;
+  cursor: pointer;
+}
